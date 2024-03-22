@@ -1,0 +1,8 @@
+spring:
+
+vacation-pay-calculator:
+  average_days_month: 29.3   #Среднее количество дней в месяце, с вычетом 14 праздничных дней
+  ndfl_percent: 0.13         #Процент НДФЛ
+
+server:
+  port: 8080
